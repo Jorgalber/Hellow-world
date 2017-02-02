@@ -1,5 +1,5 @@
 # Hellow-world
-Prueba en github;
+Prueba en github
 
 
-Hola soy una prueba en github
+Hola soy una prueba en github.
